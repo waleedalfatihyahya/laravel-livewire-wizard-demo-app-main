@@ -1,6 +1,8 @@
-# A demo of spatie/laravel-livewire-wizard
+# A demo of Laravel livewire wizaed form.
 
-This repo contains a Laravel app to showcase the [spatie/laravel-livewizard package](https://spatie.be/docs/laravel-livewire-wizard).
+# Easy to utilise and manage.
+
+
 
 ## Usage
 
@@ -13,5 +15,5 @@ This repo contains a Laravel app to showcase the [spatie/laravel-livewizard pack
 
 You'll see a tree step wizard for a simple checkout flow.
 
-![screenshot](https://github.com/spatie/laravel-livewire-wizard-demo-app/blob/main/docs/screenshot.png?raw=true)
+
 
